@@ -1,4 +1,4 @@
-#Awesome Bucket list MVP1
+## Awesome Bucket list MVP1
 verison. 1.0 
 This project is a simple MEAN Stack Project. 
 
@@ -9,4 +9,4 @@ This project is a simple MEAN Stack Project.
 4. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Future Dev
-  - Additional Feature will be added. 
+  - Additional Feature comming soon. 
