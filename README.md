@@ -1,4 +1,4 @@
-## Awesome Bucket list MVP1
+## Awesome Bucket List MVP1
 verison. 1.0 
 This project is a simple MEAN Stack Project. 
 
